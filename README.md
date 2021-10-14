@@ -1,4 +1,4 @@
-**Reconstruction of neural activity using kinetic Ising model **
+**Reconstruction of neural activity using kinetic Ising model**
 
 
 **References**
