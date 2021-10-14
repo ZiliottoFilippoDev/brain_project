@@ -1,4 +1,5 @@
-# Brain project
-## Vanilla ice-team
+**Reconstruction of neural activity using kinetic Ising model **
 
-theory here: https://drive.google.com/drive/folders/1_Wut20jIW6PmNG8I4ygEy90tjfHTYDDO?usp=sharing
+
+**References**
+https://drive.google.com/drive/folders/1_Wut20jIW6PmNG8I4ygEy90tjfHTYDDO?usp=sharing
